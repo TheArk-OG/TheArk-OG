@@ -1,7 +1,6 @@
 # 💫 About Me:
 ## 👨‍💻 About Me<br><br>Hi! I'm **Arman Khan**, a passionate and driven Fullstack Developer currently pursuing a **B.Tech in Computer Science (4rd Year)**. I love building meaningful projects that combine **functionality**, **aesthetic design**, and **real-world impact**.<br><br>- 🔭 I’m currently working on: **A Secret Project, It will soon become the part of Repo**<br>- 🌱 Learning: **Advanced React, TypeScript, and Cloud Deployment**<br>- 🧠 Strong in: **C++, Java, Python, SQL, React.js, PHP, Tailwind CSS**<br>- 📫 Reach me: [ak9934816676@gmail.com](mailto:ak9934816676@gmail.com)<br>- 💼 Looking for: **Fullstack Developer internships at product-based companies**<br>- 💬 Ask me about: Web Dev, DSA, Java Swing, Firebase, Git & more<br>- ⚡ Fun fact: I love blending **tech, design, and storytelling** through apps and projects!<br><br>
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/itz.arman_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arman-khan-96858b24b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ak9934816676@gmail.com) 
 
